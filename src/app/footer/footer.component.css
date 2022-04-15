@@ -1,0 +1,9 @@
+footer{
+  height: 20vh;
+  background-color: #e59d45;
+  display: flex;
+  justify-content: center;
+}
+h1{
+  margin: 0;
+}

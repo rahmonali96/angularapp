@@ -1,0 +1,12 @@
+main{
+  height: 70vh;
+  background-color: #efaa50;
+  /*border: darkred solid 1px;*/
+  display: flex;
+  justify-content: center;
+}
+h1{
+  margin: 0;
+  /*border: darkred solid 1px;*/
+  height: fit-content;
+}
